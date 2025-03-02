@@ -32,7 +32,7 @@ This project implements a simple chatbot using Cohere's LLM API with a FastAPI b
 ### Clone the repository:
 ```bash
 git clone https://github.com/Amr-Abdelaty-fathalla/Chatbot.git
-cd containerized-llm-app
+cd Chatbot
 ```
 
 ### Create a `.env` file in the `BackEnd` directory with your Cohere API key:
@@ -42,7 +42,7 @@ COHERE_API_KEY=your_cohere_api_key_here
 
 ### Build and run the containers:
 ```bash
-docker-compose up -d
+docker-compose up 
 ```
 
 ## Access the application:
