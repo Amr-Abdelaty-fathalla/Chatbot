@@ -31,7 +31,7 @@ This project implements a simple chatbot using Cohere's LLM API with a FastAPI b
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/yourusername/containerized-llm-app.git
+git clone https://github.com/Amr-Abdelaty-fathalla/Chatbot.git
 cd containerized-llm-app
 ```
 
